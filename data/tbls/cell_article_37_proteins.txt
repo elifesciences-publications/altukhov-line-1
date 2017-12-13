@@ -1,0 +1,38 @@
+Gene	Uniprot Symbol	Protein	co_IP_with
+L1RE1	Q9UN81	ORF1p	ORF1/2
+N/A	O00370	ORF2p	ORF1/2
+MOV10	Q9HCE1	Putative helicase MOV-10	ORF1/2
+PABPC1	P11940	Polyadenylate-binding protein 1	ORF1/2
+PABPC4	Q13310	Polyadenylate-binding protein 4	ORF1/2
+UPF1	Q92900	Regulator of nonsense transcripts 1	ORF1/2
+ZCCHC3	Q9NUD5	Zinc finger CCHC domain-containing protein 3	ORF1/2
+FKBP4	Q02790	Peptidyl-prolyl cis-trans isomerase FKBP4	ORF2
+HAX1	O00165	HCLS1-associated protein X-1	ORF2
+HMCES	Q96FZ2	Embryonic stem cell-specific 5-hydroxymethylcytosine-binding protein	ORF2
+HSP90AA1	P07900	Heat shock protein HSP 90-alpha	ORF2
+HSP90AB1	P08238	Heat shock protein HSP 90-beta	ORF2
+HSPA1A	P0DMV8	Heat shock 70 kDa protein 1A	ORF2
+HSPA8	P11142	Heat shock cognate 71 kDa protein	ORF2
+IPO7	O95373	Importin-7	ORF2
+NAP1L1	P55209	Nucleosome assembly protein 1-like 1	ORF2
+NAP1L4	Q99733	Nucleosome assembly protein 1-like 4	ORF2
+PARP1	P09874	Poly [ADP-ribose] polymerase 1	ORF2
+PCNA	P12004	Proliferating cell nuclear antigen	ORF2
+PURA	Q00577	Transcriptional activator protein Pur-alpha	ORF2
+PURB	Q96QR8	Transcriptional activator protein Pur-beta	ORF2
+RPS27A	P62979	Ubiquitin-40S ribosomal protein S27a	ORF2
+TIMM13	Q9Y5L4	Mitochondrial import inner membrane translocase subunit Tim13	ORF2
+TOP1	P11387	DNA topoisomerase 1	ORF2
+TOMM40	O96008	Mitochondrial import receptor subunit TOM40 homolog	ORF2
+TUBB	P07437	Tubulin beta chain	ORF2
+TUBB4B	P68371	Tubulin beta-4B chain	ORF2
+YME1L	Q96TA2	ATP-dependent zinc metalloprotease YME1L1	ORF2
+CORO1B	Q9BR76	Coronin-1B	ORF1
+DDX6	P26196	Probable ATP-dependent RNA helicase DDX6	ORF1
+ERAL1	O75616	GTPase Era, mitochondrial	ORF1
+HIST1H2BO	P23527	Histone H2B type 1-O	ORF1
+LARP7	Q4G0J3	La-related protein 7	ORF1
+MEPCE	Q7L2J0	7SK snRNA methylphosphate capping enzyme	ORF1
+PABPC4L	P0CB38	Polyadenylate-binding protein 4-like	ORF1
+TROVE2	P10155	60 kDa SS-A/Ro ribonucleoprotein	ORF1
+YARS2	Q9Y2Z4	Tyrosine--tRNA ligase, mitochondrial	ORF1

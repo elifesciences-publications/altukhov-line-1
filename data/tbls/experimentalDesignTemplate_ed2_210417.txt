@@ -1,0 +1,5 @@
+Name	Aname	Fraction	Experiment	comment	heavy	use.normalized	scale	ignore	control	calculate together		
+KM010813_SILAC_F	SILAC_F	1	SILAC_F	One experiment: H/L (swap from SILAC_MW)	1	F	F			A56-A58	 A79	
+KM010913_SILAC_MW	SILAC_MW	1	SILAC_MW	One experiment: L/H (swap from SILAC_F)	0	F	F			A56-A58	 A79	
+				
+

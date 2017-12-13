@@ -1,0 +1,102 @@
+Genes	Uniprot	Protein	Color	Exp1_affinity	Exp2_affinity	Avg_affinity
+ORF1, ORF1, L1RE1	Orf1-untagged(native):, Orf1-untagged(optimized):, Q9UN81	LINE-1 retrotransposable element ORF1 protein	blue	1	1	1
+MOV10†	Q9HCE1	Putative helicase MOV-10	blue	0.8189	0.8595	0.8392
+PABPC1	P11940	Polyadenylate-binding protein 1	blue	0.7533	0.7967	0.775
+PABPC4	Q13310	Polyadenylate-binding protein 4	blue	0.7245	0.798	0.7613
+UPF1	Q92900	Regulator of nonsense transcripts 1	blue	0.4579	0.6459	0.5519
+ZCCHC3	Q9NUD5	Zinc finger CCHC domain-containing protein 3	blue	0.2744	0.4754	0.3749
+ORF2	O00370		blue	0.1871	0.332	0.2596
+HMCES	Q96FZ2	Embryonic stem cell-specific 5-hydroxymethylcytosine-binding protein	pink	0.5765	0.5312	0.5539
+PARP1	P09874	Poly [ADP-ribose] polymerase 1	pink	0.3615	0.3528	0.3572
+FKBP4	Q02790	Peptidyl-prolyl cis-trans isomerase FKBP4	pink	0.2582	0.2877	0.273
+TUBB4B	P68371	Tubulin beta-4B chain	pink	0.2525	0.2363	0.2444
+TUBB	P07437	Tubulin beta chain	pink	0.2343	0.23	0.2322
+HSP90AB1	P08238	Heat shock protein HSP 90-beta	pink	0.2671	0.1822	0.2246
+UBB, UBC, RPS27A, UBA52	P0CG47, P0CG48, P62979, P62987	Polyubiquitin-B [Cleaved into: Ubiquitin], Polyubiquitin-C [Cleaved into: Ubiquitin], Ubiquitin-40S ribosomal protein S27a, Ubiquitin-60S ribosomal protein L40	pink	0.1684	0.2739	0.2212
+HSP90AA1	P07900	Heat shock protein HSP 90-alpha	pink	0.2787	0.1562	0.2175
+NAP1L1	P55209	Nucleosome assembly protein 1-like 1	pink	0.1877	0.2468	0.2172
+IPO7	O95373	Importin-7	pink	0.1758	0.1886	0.1822
+TOP1	P11387	DNA topoisomerase 1	pink	0.15	0.206	0.178
+HAX1	O00165	HCLS1-associated protein X-1	pink	0.1108	0.1706	0.1407
+PCNA	P12004	Proliferating cell nuclear antigen	pink	0.0708	0.19	0.1304
+PURB	Q96QR8	Transcriptional activator protein Pur-beta	pink	0.0557	0.2036	0.1296
+PURA	Q00577	Transcriptional activator protein Pur-alpha	pink	0.0549	0.1907	0.1228
+HSPA8	P11142	Heat shock cognate 71 kDa protein	pink	0.093	0.1443	0.1187
+HSPA1A, HSPA1B	P0DMV8, P0DMV9	Heat shock 70 kDa protein 1A, Heat shock 70 kDa protein 1B	pink	0.0872	0.1264	0.1068
+VIM	P08670	Vimentin	gray	0.8403	0.6615	0.7509
+EIF4A3	P38919	Eukaryotic initiation factor 4A-III	gray	0.5551	0.6708	0.6129
+MATR3	P43243	Matrin-3	gray	0.6539	0.5219	0.5879
+LARP1	Q6PKG0	La-related protein 1	gray	0.5433	0.6007	0.572
+HNRNPH1	P31943	Heterogeneous nuclear ribonucleoprotein H	gray	0.5532	0.5335	0.5433
+TRA2A	Q13595	Transformer-2 protein homolog alpha	gray	0.4741	0.5277	0.5009
+HNRNPM	P52272	Heterogeneous nuclear ribonucleoprotein M	gray	0.5128	0.4596	0.4862
+HNRNPU	Q00839	Heterogeneous nuclear ribonucleoprotein U	gray	0.5901	0.377	0.4835
+ENO1	P06733	Alpha-enolase	gray	0.6632	0.2818	0.4725
+CANX	P27824	Calnexin	gray	0.7191	0.2254	0.4722
+EEF1A1, EEF1A1P5	P68104, Q5VTE0	Elongation factor 1-alpha 1, Putative elongation factor 1-alpha-like 3	gray	0.5825	0.3547	0.4686
+DDX17	Q92841	Probable ATP-dependent RNA helicase DDX17	gray	0.5995	0.336	0.4678
+HNRNPF	P52597	Heterogeneous nuclear ribonucleoprotein F	gray	0.416	0.5178	0.4669
+HNRNPK	P61978	Heterogeneous nuclear ribonucleoprotein K	gray	0.6067	0.3059	0.4563
+RPL30	P62888	60S ribosomal protein L30	gray	0.4278	0.4398	0.4338
+RPL7	P18124	60S ribosomal protein L7	gray	0.416	0.4443	0.4301
+GAPDH	P04406	Glyceraldehyde-3-phosphate dehydrogenase	gray	0.465	0.375	0.42
+YBX1	P67809	Nuclease-sensitive element-binding protein 1	gray	0.3102	0.5111	0.4106
+SRSF7	Q16629	Serine/arginine-rich splicing factor 7	gray	0.3979	0.3927	0.3953
+RPLP0, RPLP0P6	P05388, Q8NHW5	60S acidic ribosomal protein P0, 60S acidic ribosomal protein P0-like	gray	0.2774	0.479	0.3782
+EEF2	P13639	Elongation factor 2	gray	0.4819	0.27	0.376
+HIST3H3, H3F3C, HIST2H3A;	Q16695, Q6NXT2, Q71DI3	Histone H3.1t, Histone H3.3C, Histone H3.2	gray	0.564	0.1844	0.3742
+RPL10A	P62906	60S ribosomal protein L10a	gray	0.3306	0.4148	0.3727
+TRA2B	P62995	Transformer-2 protein homolog beta	gray	0.3215	0.4233	0.3724
+RPL12	P30050	60S ribosomal protein L12	gray	0.2983	0.4414	0.3698
+YBX3	P16989	Y-box-binding protein 3	gray	0.2245	0.4914	0.3579
+ACTB	P60709	Actin, cytoplasmic 1	gray	0.4921	0.2054	0.3487
+LMNB1	P20700	Lamin-B1	gray	0.4308	0.2426	0.3367
+HSPA9	P38646	Stress-70 protein, mitochondrial	gray	0.4797	0.1889	0.3343
+HSPD1	P10809	60 kDa heat shock protein, mitochondrial	gray	0.4759	0.1835	0.3297
+RPS2	P15880	40S ribosomal protein S2	gray	0.3438	0.3133	0.3285
+RPN1	P04843	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1	gray	0.3864	0.2414	0.3139
+RPL3	P39023	60S ribosomal protein L3	gray	0.3221	0.294	0.308
+PRKDC	P78527	DNA-dependent protein kinase catalytic subunit	gray	0.308	0.2691	0.2885
+HSPA5	P11021	78 kDa glucose-regulated protein	gray	0.3373	0.2372	0.2872
+HIST1H3D, HIST1H2AG, HIST1H2AD, HIST1H2AH, HIST1H2AJ, H2AFJ	A0A0U1RRH7, P0C0S8, P20671, Q96KK5, Q99878, Q9BTM1	Histone H2A, Histone H2A type 1, Histone H2A type 1-D, Histone H2A type 1-H, Histone H2A type 1-J, Histone H2A.J	gray	0.3274	0.2426	0.285
+SLC25A5	P05141	ADP/ATP translocase 2	gray	0.2843	0.2792	0.2817
+IRS4	O14654	Insulin receptor substrate 4	gray	0.2261	0.3162	0.2712
+RALY	Q9UKM9	RNA-binding protein Raly	gray	0.196	0.3384	0.2672
+HIST1H2BK, H2BFS, HIST1H2BD, HIST1H2BC, HIST2H2BF, HIST1H2BH, HIST1H2BA, HIST1H2BN, HIST1H2BM, HIST1H2BL	O60814, P57053, P58876, P62807, Q5QNW6, Q93079, Q96A08, Q99877, Q99879, Q99880	Histone H2B type 1-K, Histone H2B type F-S, Histone H2B type 1-D, Histone H2B type 1-C/E/F/G/I, Histone H2B type 2-F, Histone H2B type 1-H, Histone H2B type 1-A, Histone H2B type 1-N, Histone H2B type 1-M, Histone H2B type 1-L	gray	0.3473	0.181	0.2641
+RPL23	P62829	60S ribosomal protein L23	gray	0.2392	0.288	0.2636
+RCN2	Q14257	Reticulocalbin-2	gray	0.166	0.3551	0.2606
+RPL4	P36578	60S ribosomal protein L4	gray	0.2733	0.2476	0.2605
+PPP6R3	Q5H9R7	Serine/threonine-protein phosphatase 6 regulatory subunit 3	gray	0.2133	0.3016	0.2574
+KPNB1	Q14974	Importin subunit beta-1	gray	0.3029	0.2106	0.2567
+PPP2R1A	P30153	Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform	gray	0.2534	0.2593	0.2564
+PCBP2	Q15366	Poly(rC)-binding protein 2	gray	0.2716	0.2393	0.2554
+TUBA1B	P68363	Tubulin alpha-1B chain	gray	0.2409	0.2483	0.2446
+RBM39	Q14498	RNA-binding protein 39	gray	0.2649	0.2057	0.2353
+HIST1H4A	P62805	Histone H4	gray	0.293	0.1764	0.2347
+RPL11	P62913	60S ribosomal protein L11	gray	0.2107	0.2562	0.2334
+EMD	P50402	Emerin	gray	0.1784	0.2842	0.2313
+CALU	O43852	Calumenin	gray	0.1997	0.2615	0.2306
+NCBP1	Q09161	Nuclear cap-binding protein subunit 1	gray	0.2039	0.2362	0.22
+IGF2BP1	Q9NZI8	Insulin-like growth factor 2 mRNA-binding protein 1	gray	0.1742	0.2555	0.2149
+IGF2BP3	O00425	Insulin-like growth factor 2 mRNA-binding protein 3	gray	0.1406	0.2819	0.2112
+AIFM1	O95831	Apoptosis-inducing factor 1, mitochondrial	gray	0.2223	0.1911	0.2067
+XRCC6	P12956	X-ray repair cross-complementing protein 6	gray	0.1749	0.2218	0.1984
+PARP2	Q9UGN5	Poly [ADP-ribose] polymerase 2	gray	0.1131	0.2815	0.1973
+XRCC5	P13010	X-ray repair cross-complementing protein 5	gray	0.1413	0.2402	0.1908
+THRAP3	Q9Y2W1	Thyroid hormone receptor-associated protein 3	gray	0.158	0.2097	0.1839
+RPL6	Q02878	60S ribosomal protein L6	gray	0.1998	0.164	0.1819
+SUPT16H	Q9Y5B9	FACT complex subunit SPT16	gray	0.2404	0.115	0.1777
+HNRNPC	P07910	Heterogeneous nuclear ribonucleoproteins C1/C2	gray	0.0896	0.2571	0.1733
+DNAJA2	O60884	DnaJ homolog subfamily A member 2	gray	0.0873	0.2451	0.1662
+DNAJA1	P31689	DnaJ homolog subfamily A member 1	gray	0.0989	0.2239	0.1614
+RPL5	P46777	60S ribosomal protein L5	gray	0.1909	0.1199	0.1554
+RPL15	P61313	60S ribosomal protein L15	gray	0.1641	0.1442	0.1542
+RPL7A	P62424	60S ribosomal protein L7a	gray	0.1678	0.1313	0.1495
+DDB1	Q16531	DNA damage-binding protein 1	gray	0.1166	0.1791	0.1478
+PRMT5	O14744	Protein arginine N-methyltransferase 5	gray	0.1377	0.1579	0.1478
+RPL18	Q07020	60S ribosomal protein L18	gray	0.1331	0.1191	0.1261
+SSBP1	Q04837	Single-stranded DNA-binding protein, mitochondrial	gray	0.0773	0.1685	0.1229
+GMNN	O75496	Geminin	gray	0.0375	0.2008	0.1192
+DDX39B	Q13838	Spliceosome RNA helicase DDX39B	gray	0.1399	0.0975	0.1187
+STK38	Q15208	Serine/threonine-protein kinase 38	gray	0.0629	0.1743	0.1186
+RPA1	P27694	Replication protein A 70 kDa DNA-binding subunit	gray	0.0109	0.121	0.0659
