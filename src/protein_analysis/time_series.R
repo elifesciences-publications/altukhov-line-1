@@ -33,7 +33,7 @@ names(cell.pr.l) <- cell.pr$`Uniprot Symbol`
 exps.qe <- c("mt302_t0", "mt302_t30sec", "mt302_t5min", "mt302_30min" )
 
 # read exp template (from John)
-dt.tmpl <- fread("data/tbls/experimentalDesignTemplate_ed2_210417.txt", header = T, sep = "\t")
+dt.tmpl <- fread("data/tbls/experimentalDesignTemplate.txt", header = T, sep = "\t")
 
 # subset needed
 dt.tmpl <- dt.tmpl[Aname %in% exps.qe]

@@ -32,7 +32,7 @@ names(cell.pr.l) <- cell.pr$`Uniprot Symbol`
 exps <- c("SILAC_F", "SILAC_MW")
 
 # read exp template (from John)
-dt.tmpl <- fread("data/tbls/experimentalDesignTemplate_ed2_210417.txt", header = T, sep = "\t")
+dt.tmpl <- fread("data/tbls/experimentalDesignTemplate.txt", header = T, sep = "\t")
 
 # subset needed
 dt.tmpl <- dt.tmpl[Aname %in% exps]

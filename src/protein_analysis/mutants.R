@@ -36,7 +36,7 @@ orf1.orf2 <- c(orf1 = "sp|Q9UN81|LORF1_HUMAN",
 cont <- names(read.fasta("data/contaminants.fasta"))
 
 # read exp template (from John)
-dt.tmpl <- fread("data/tbls/experimentalDesignTemplate_ed2_210417.txt", header = T, sep = "\t")
+dt.tmpl <- fread("data/tbls/experimentalDesignTemplate.txt", header = T, sep = "\t")
 # subset needed
 dt.tmpl <- dt.tmpl[Aname %in% unlist(exps)]
 # get unique - H/L pair

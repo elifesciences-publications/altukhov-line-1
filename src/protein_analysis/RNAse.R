@@ -31,7 +31,7 @@ names(cell.pr.l) <- cell.pr$`Uniprot Symbol`
 exps <- c("RNAseSILAC_3", "SILACRNAse_4")
 
 # read exp template (from John)
-dt.tmpl <- fread("data/tbls/experimentalDesignTemplate_ed2_210417.txt", header = T, sep = "\t")
+dt.tmpl <- fread("data/tbls/experimentalDesignTemplate.txt", header = T, sep = "\t")
 # subset needed
 dt.tmpl <- dt.tmpl[Aname %in% exps]
 # get unique - H/L pair
