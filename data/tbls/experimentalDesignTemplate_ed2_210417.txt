@@ -1,5 +1,5 @@
 Name	Aname	Fraction	Experiment	comment	heavy	use.normalized	scale	ignore	control	calculate together		
 KM010813_SILAC_F	SILAC_F	1	SILAC_F	One experiment: H/L (swap from SILAC_MW)	1	F	F			A56-A58	 A79	
 KM010913_SILAC_MW	SILAC_MW	1	SILAC_MW	One experiment: L/H (swap from SILAC_F)	0	F	F			A56-A58	 A79	
-				
-
+KM012714_RNAseSILAC_3	RNAseSILAC_3	1	RNAseSILAC_3	One experiment: H/L 1 1 (swap from SILACRNAse_4)	1	F	F			A59-A64	 A60/A63 (combine)	
+KM013114_SILACRNAse_4	SILACRNAse_4	1	SILACRNAse_4	One experiment: L/H (swap from RNaseSILAC3/SILACRNAse_3_1)	0	F	F			A59-A64		

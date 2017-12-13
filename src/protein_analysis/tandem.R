@@ -152,7 +152,7 @@ mtx.norm <- sapply(exps, function(exp) {
 })
 
 # plot 2nd version
-pdf("out/Splot-tandem_normalization.pdf", width = 8, height = 4)
+pdf("out/Split-tandem_normalization.pdf", width = 8, height = 4)
 layout(matrix(1:2, nrow = 1))
 par(mar = c(5,4,4,1))
 h1.1 <- hist(mtx[,1], breaks = 30, plot = F)

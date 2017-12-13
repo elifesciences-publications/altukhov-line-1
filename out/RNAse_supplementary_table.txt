@@ -1,0 +1,154 @@
+Genes	Uniprot	Protein	Color	P-value	Exp1_affinity	Exp2_affinity	Avg_affinity
+ORF1, ORF1, L1RE1	Orf1-untagged(native):, Orf1-untagged(optimized):, Q9UN81	LINE-1 retrotransposable element ORF1 protein	blue	0.0000000000000000000000000000178129127759664	0.6884	0.4713	0.5798
+MOV10	Q9HCE1	Putative helicase MOV-10	blue	0.0000000000000000000919752013262566	0.4672	0.5209	0.4941
+ZCCHC3	Q9NUD5	Zinc finger CCHC domain-containing protein 3	blue	0.000000000000000129219561153449	0.5093	0.4018	0.4555
+UPF1	Q92900	Regulator of nonsense transcripts 1	blue	0.000000590078076378534	0.2435	0.3712	0.3074
+PABPC4	Q13310	Polyadenylate-binding protein 4	blue	NA	-0.0655	-0.0547	-0.0601
+PABPC1	P11940	Polyadenylate-binding protein 1	blue	NA	-0.0371	-0.0624	-0.0497
+ORF2	O00370		blue	NA	-0.1111	-0.03	-0.0705
+RPL10A	P62906	60S ribosomal protein L10a	black	0.0000000000000000000000000000000000000000000000000903091056473806	0.848	0.6257	0.7368
+RPL12	P30050	60S ribosomal protein L12	black	0.00000000000000000000000000000000000000000000000588080895476605	0.8129	0.6429	0.7279
+RBM8A	Q9Y5S9	RNA-binding protein 8A	black	0.000000000000000000000000000638637549539172	0.6462	0.4959	0.571
+RPLP0, RPLP0P6	P05388, Q8NHW5	60S acidic ribosomal protein P0, 60S acidic ribosomal protein P0-like	black	0.0000000000000000000000124586442589896	0.5958	0.4667	0.5312
+EIF4A3	P38919	Eukaryotic initiation factor 4A-III	black	0.000000000000000000000689487200451989	0.5317	0.5028	0.5172
+MAGOH	P61326	Protein mago nashi homolog	black	0.0000000000000000000230655121256295	0.5022	0.5004	0.5013
+SRSF7	Q16629	Serine/arginine-rich splicing factor 7	black	0.0000846464809506878	0.2533	0.2786	0.2659
+RPL30	P62888	60S ribosomal protein L30	black	0.000109960108152504	0.3224	0.1865	0.2544
+FKBP4	Q02790	Peptidyl-prolyl cis-trans isomerase FKBP4	pink	NA	0.0455	-0.1498	-0.0521
+HAX1	O00165	HCLS1-associated protein X-1	pink	NA	-0.0952	-0.1327	-0.1139
+PURB	Q96QR8	Transcriptional activator protein Pur-beta	pink	NA	-0.1373	0.0233	-0.057
+IPO7	O95373	Importin-7	pink	NA	-0.0336	-0.1592	-0.0964
+TUBB	P07437	Tubulin beta chain	pink	NA	-0.0215	-0.1772	-0.0993
+HSP90AA1	P07900	Heat shock protein HSP 90-alpha	pink	NA	-0.0153	-0.1781	-0.0967
+HSP90AB1	P08238	Heat shock protein HSP 90-beta	pink	NA	-0.0136	-0.1643	-0.089
+PARP1	P09874	Poly [ADP-ribose] polymerase 1	pink	NA	-0.12	-0.0499	-0.0849
+HSPA1A, HSPA1B	P0DMV8, P0DMV9	Heat shock 70 kDa protein 1A, Heat shock 70 kDa protein 1B	pink	NA	-0.1171	-0.0234	-0.0702
+HSPA8	P11142	Heat shock cognate 71 kDa protein	pink	NA	-0.089	-0.0596	-0.0743
+PCNA	P12004	Proliferating cell nuclear antigen	pink	NA	-0.1446	-0.0699	-0.1073
+NAP1L1	P55209	Nucleosome assembly protein 1-like 1	pink	NA	-0.1894	-0.0025	-0.096
+UBB, UBC, RPS27A, UBA52	P0CG47, P0CG48, P62979, P62987	Polyubiquitin-B [Cleaved into: Ubiquitin], Polyubiquitin-C [Cleaved into: Ubiquitin], Ubiquitin-40S ribosomal protein S27a, Ubiquitin-60S ribosomal protein L40	pink	NA	-0.064	0.026	-0.019
+TUBB4B	P68371	Tubulin beta-4B chain	pink	NA	-0.0144	-0.1655	-0.09
+PURA	Q00577	Transcriptional activator protein Pur-alpha	pink	NA	-0.1541	0.0179	-0.0681
+HNRNPU	Q00839	Heterogeneous nuclear ribonucleoprotein U	gray	NA	-0.0196	0.0182	-0.0007
+SLC25A11	Q02978	Mitochondrial 2-oxoglutarate/malate carrier protein	gray	NA	-0.0034	-0.1191	-0.0612
+SSBP1	Q04837	Single-stranded DNA-binding protein, mitochondrial	gray	NA	-0.0821	-0.0994	-0.0907
+FMR1	Q06787	Synaptic functional regulator FMR1	gray	NA	-0.1164	-0.0567	-0.0866
+PRDX1	Q06830	Peroxiredoxin-1	gray	NA	-0.0942	-0.0737	-0.0839
+DHX9	Q08211	ATP-dependent RNA helicase A	gray	NA	0.1941	-0.0173	0.0884
+SSRP1	Q08945	FACT complex subunit SSRP1	gray	NA	-0.0679	-0.0312	-0.0496
+RBBP4	Q09028	Histone-binding protein RBBP4	gray	NA	0.0153	-0.2449	-0.1148
+SRSF9	Q13242	Serine/arginine-rich splicing factor 9	gray	NA	-0.0256	0.143	0.0587
+TRA2A	Q13595	Transformer-2 protein homolog alpha	gray	NA	0.1996	0.2642	0.2319
+SAFB2	Q14151	Scaffold attachment factor B2	gray	NA	-0.0283	0.1711	0.0714
+RCN2	Q14257	Reticulocalbin-2	gray	NA	-0.1693	0.0185	-0.0754
+RBM39	Q14498	RNA-binding protein 39	gray	NA	-0.1129	-0.0595	-0.0862
+EFTUD2	Q15029	116 kDa U5 small nuclear ribonucleoprotein component	gray	NA	0.1148	0.1177	0.1162
+STK38	Q15208	Serine/threonine-protein kinase 38	gray	NA	-0.2353	0.0416	-0.0968
+RNPS1	Q15287	RNA-binding protein with serine-rich domain 1	gray	NA	-0.1346	-0.0307	-0.0827
+RCN1	Q15293	Reticulocalbin-1	gray	NA	-0.154	-0.0751	-0.1146
+PCBP2	Q15366	Poly(rC)-binding protein 2	gray	NA	0.0076	0.0185	0.0131
+ELAVL1	Q15717	ELAV-like protein 1	gray	NA	0.0794	0.0441	0.0618
+DDB1	Q16531	DNA damage-binding protein 1	gray	NA	-0.0953	0.0006	-0.0473
+PRPF8	Q6P2Q9	Pre-mRNA-processing-splicing factor 8	gray	NA	0.1645	0.1884	0.1764
+LARP1	Q6PKG0	La-related protein 1	gray	NA	0.1713	-0.0165	0.0774
+HIST3H3, H3F3C, HIST2H3A;	Q16695, Q6NXT2, Q71DI3	Histone H3.1t, Histone H3.3C, Histone H3.2	gray	NA	0.0539	-0.0477	0.0031
+DDX3X	O00571	ATP-dependent RNA helicase DDX3X	gray	NA	0.0286	-0.0751	-0.0232
+PPP6C	O00743	Serine/threonine-protein phosphatase 6 catalytic subunit	gray	NA	-0.0989	-0.0616	-0.0802
+UTP15	Q8TED0	U3 small nucleolar RNA-associated protein 15 homolog	gray	NA	0.2419	0.0208	0.1313
+IRS4	O14654	Insulin receptor substrate 4	gray	NA	-0.1845	-0.012	-0.0983
+PRMT5	O14744	Protein arginine N-methyltransferase 5	gray	NA	-0.1713	-0.0321	-0.1017
+DDX17	Q92841	Probable ATP-dependent RNA helicase DDX17	gray	NA	0.027	0.0053	0.0162
+PGAM5	Q96HS1	Serine/threonine-protein phosphatase PGAM5, mitochondrial	gray	NA	-0.2432	0.0867	-0.0782
+YTHDC1	Q96MU7	YTH domain-containing protein 1	gray	NA	-0.1069	0.1533	0.0232
+RBM14	Q96PK6	RNA-binding protein 14	gray	NA	-0.09	-0.031	-0.0605
+PHB2	Q99623	Prohibitin-2	gray	NA	0.1321	-0.2429	-0.0554
+ATXN2	Q99700	Ataxin-2	gray	NA	-0.1519	0.0431	-0.0544
+WDR77	Q9BQA1	Methylosome protein 50	gray	NA	-0.0929	-0.1366	-0.1147
+PNN	Q9H307	Pinin	gray	NA	-0.0979	0.067	-0.0154
+BCLAF1	Q9NYF8	Bcl-2-associated transcription factor 1	gray	NA	-0.1412	0.0361	-0.0526
+IGF2BP1	Q9NZI8	Insulin-like growth factor 2 mRNA-binding protein 1	gray	NA	0.0481	0.1257	0.0869
+HACD3	Q9P035	Very-long-chain	gray	NA	-0.1544	-0.0141	-0.0842
+PARP2	Q9UGN5	Poly [ADP-ribose] polymerase 2	gray	NA	-0.2721	0.0853	-0.0934
+SLC25A13	Q9UJS0	Calcium-binding mitochondrial carrier protein Aralar2	gray	NA	-0.0958	-0.013	-0.0544
+RALY	Q9UKM9	RNA-binding protein Raly	gray	NA	-0.087	0.0117	-0.0376
+ACIN1	Q9UKV3	Apoptotic chromatin condensation inducer in the nucleus	gray	NA	0.0068	-0.0577	-0.0254
+PRPF19	Q9UMS4	Pre-mRNA-processing factor 19	gray	NA	0.1077	0.026	0.0668
+PHGDH	O43175	D-3-phosphoglycerate dehydrogenase	gray	NA	0.0732	-0.0653	0.004
+WDR3	Q9UNX4	WD repeat-containing protein 3	gray	NA	0.2922	-0.0119	0.1402
+RUVBL1	Q9Y265	RuvB-like 1	gray	NA	-0.0976	-0.0835	-0.0905
+THRAP3	Q9Y2W1	Thyroid hormone receptor-associated protein 3	gray	NA	-0.1003	-0.0105	-0.0554
+YTHDF2	Q9Y5A9	YTH domain-containing family protein 2	gray	NA	-0.1135	-0.0837	-0.0986
+SUPT16H	Q9Y5B9	FACT complex subunit SPT16	gray	NA	-0.1675	-0.0612	-0.1144
+CALU	O43852	Calumenin	gray	NA	-0.1967	-0.0256	-0.1112
+HIST1H2BK, H2BFS, HIST1H2BD, HIST1H2BC, HIST2H2BF, HIST1H2BH, HIST1H2BA, HIST1H2BN, HIST1H2BM, HIST1H2BL	O60814, P57053, P58876, P62807, Q5QNW6, Q93079, Q96A08, Q99877, Q99879, Q99880	Histone H2B type 1-K, Histone H2B type F-S, Histone H2B type 1-D, Histone H2B type 1-C/E/F/G/I, Histone H2B type 2-F, Histone H2B type 1-H, Histone H2B type 1-A, Histone H2B type 1-N, Histone H2B type 1-M, Histone H2B type 1-L	gray	NA	0.1616	-0.0791	0.0413
+DNAJA2	O60884	DnaJ homolog subfamily A member 2	gray	NA	-0.2013	-0.0103	-0.1058
+H2AFY	O75367	Core histone macro-H2A.1	gray	NA	-0.0355	0.0201	-0.0077
+SRSF10	O75494	Serine/arginine-rich splicing factor 10	gray	NA	0.0619	0.1982	0.13
+GMNN	O75496	Geminin	gray	NA	-0.1832	0.0225	-0.0804
+SNRNP200	O75643	U5 small nuclear ribonucleoprotein 200 kDa helicase	gray	NA	0.101	0.1428	0.1219
+BAG2	O95816	BAG family molecular chaperone regulator 2	gray	NA	-0.1103	-0.0796	-0.0949
+AIFM1	O95831	Apoptosis-inducing factor 1, mitochondrial	gray	NA	-0.1565	-0.0994	-0.1279
+LDHA	P00338	L-lactate dehydrogenase A chain	gray	NA	0.087	-0.1363	-0.0247
+GAPDH	P04406	Glyceraldehyde-3-phosphate dehydrogenase	gray	NA	0.0735	-0.0541	0.0097
+RPN1	P04843	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1	gray	NA	0.0062	-0.1287	-0.0613
+ATP1A1	P05023	Sodium/potassium-transporting ATPase subunit alpha-1	gray	NA	-0.1257	-0.1104	-0.1181
+SLC25A5	P05141	ADP/ATP translocase 2	gray	NA	-0.0775	-0.0999	-0.0887
+ATP5B	P06576	ATP synthase subunit beta, mitochondrial	gray	NA	0.1169	-0.2742	-0.0786
+NPM1	P06748	Nucleophosmin	gray	NA	-0.0323	0.0113	-0.0105
+HNRNPC	P07910	Heterogeneous nuclear ribonucleoproteins C1/C2	gray	NA	-0.1934	0.075	-0.0592
+VIM	P08670	Vimentin	gray	NA	0.0981	-0.1857	-0.0438
+H2AFZ, H2AFV	P0C0S5, Q71UI9	Histone H2A.Z, Histone H2A.V	gray	NA	-0.0107	-0.06	-0.0353
+HIST1H3D, HIST1H2AG, HIST1H2AD, HIST1H2AH, HIST1H2AJ, H2AFJ	A0A0U1RRH7, P0C0S8, P20671, Q96KK5, Q99878, Q9BTM1	Histone H2A, Histone H2A type 1, Histone H2A type 1-D, Histone H2A type 1-H, Histone H2A type 1-J, Histone H2A.J	gray	NA	0.0179	0.0606	0.0393
+HSPD1	P10809	60 kDa heat shock protein, mitochondrial	gray	NA	-0.0242	-0.1297	-0.077
+HSPA5	P11021	78 kDa glucose-regulated protein	gray	NA	-0.0781	-0.0555	-0.0668
+XRCC6	P12956	X-ray repair cross-complementing protein 6	gray	NA	-0.1803	0.006	-0.0871
+XRCC5	P13010	X-ray repair cross-complementing protein 5	gray	NA	-0.1745	0.0008	-0.0869
+EEF2	P13639	Elongation factor 2	gray	NA	0.0092	-0.1587	-0.0748
+TCP1	P17987	T-complex protein 1 subunit alpha	gray	NA	-0.2136	-0.1705	-0.192
+RPL7	P18124	60S ribosomal protein L7	gray	NA	-0.133	-0.1741	-0.1535
+RPL17-C18orf32, RPL17	A0A0A6YYL6, P18621	Protein RPL17-C18orf32, 60S ribosomal protein L17	gray	NA	-0.0372	-0.0979	-0.0675
+TRIM21	P19474	E3 ubiquitin-protein ligase TRIM21	gray	NA	-0.0866	-0.0459	-0.0662
+VDAC1	P21796	Voltage-dependent anion-selective channel protein 1	gray	NA	0.051	0.0303	0.0406
+FBL	P22087	rRNA 2'-O-methyltransferase fibrillarin	gray	NA	0.2054	-0.0242	0.0906
+HNRNPA2B1	P22626	Heterogeneous nuclear ribonucleoproteins A2/B1	gray	NA	0.0616	-0.1025	-0.0205
+RPS3	P23396	40S ribosomal protein S3	gray	NA	0.0181	-0.2306	-0.1062
+RPL13	P26373	60S ribosomal protein L13	gray	NA	0.0378	-0.1065	-0.0343
+PTBP1	P26599	Polypyrimidine tract-binding protein 1	gray	NA	-0.0016	0.0139	0.0061
+RPA1	P27694	Replication protein A 70 kDa DNA-binding subunit	gray	NA	-0.1198	0.0438	-0.038
+PPP2R1A	P30153	Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform	gray	NA	-0.0475	0.0586	0.0056
+DNAJA1	P31689	DnaJ homolog subfamily A member 1	gray	NA	-0.1788	0.0336	-0.0726
+HNRNPH1	P31943	Heterogeneous nuclear ribonucleoprotein H	gray	NA	0.0974	0.0688	0.0831
+RPL4	P36578	60S ribosomal protein L4	gray	NA	-0.107	-0.175	-0.141
+HSPA9	P38646	Stress-70 protein, mitochondrial	gray	NA	0.0241	-0.12	-0.048
+RPL3	P39023	60S ribosomal protein L3	gray	NA	-0.0274	-0.1749	-0.1011
+RPL13A	P40429	60S ribosomal protein L13a	gray	NA	-0.0854	-0.2196	-0.1525
+IARS	P41252	Isoleucine--tRNA ligase, cytoplasmic	gray	NA	-0.0187	-0.104	-0.0614
+MATR3	P43243	Matrin-3	gray	NA	0.0438	0.0357	0.0398
+VDAC2	P45880	Voltage-dependent anion-selective channel protein 2	gray	NA	0.0063	-0.1455	-0.0696
+RPL27A	P46776	60S ribosomal protein L27a	gray	NA	-0.0636	-0.0019	-0.0327
+RPL5	P46777	60S ribosomal protein L5	gray	0.000208914900845073	-0.1123	-0.3444	-0.2283
+EMD	P50402	Emerin	gray	NA	-0.1007	-0.0839	-0.0923
+HNRNPM	P52272	Heterogeneous nuclear ribonucleoprotein M	gray	NA	0.0756	-0.0102	0.0327
+HNRNPF	P52597	Heterogeneous nuclear ribonucleoprotein F	gray	NA	0.07	-0.0175	0.0263
+HNRNPH2	P55795	Heterogeneous nuclear ribonucleoprotein H2	gray	NA	0.1025	0.0412	0.0719
+EIF4A1	P60842	Eukaryotic initiation factor 4A-I	gray	NA	0.0627	-0.1734	-0.0554
+RPL27	P61353	60S ribosomal protein L27	gray	NA	0.2342	0.038	0.1361
+HNRNPK	P61978	Heterogeneous nuclear ribonucleoprotein K	gray	NA	-0.0122	0.0258	0.0068
+RPS8	P62241	40S ribosomal protein S8	gray	NA	-0.1478	-0.0662	-0.107
+RPS11	P62280	40S ribosomal protein S11	gray	NA	-0.113	-0.0186	-0.0658
+HIST1H4A	P62805	Histone H4	gray	NA	0.0477	-0.0618	-0.0071
+RPL8	P62917	60S ribosomal protein L8	gray	NA	0.1829	-0.13	0.0264
+TRA2B	P62995	Transformer-2 protein homolog beta	gray	NA	-0.1839	-0.045	-0.1144
+RPL38	P63173	60S ribosomal protein L38	gray	NA	0.06	-0.0837	-0.0119
+RACK1	P63244	Receptor of activated protein C kinase 1	gray	NA	-0.0573	-0.2085	-0.1329
+YBX1	P67809	Nuclease-sensitive element-binding protein 1	gray	NA	0.105	0.294	0.1995
+EEF1A1, EEF1A1P5	P68104, Q5VTE0	Elongation factor 1-alpha 1, Putative elongation factor 1-alpha-like 3	gray	NA	-0.054	-0.0848	-0.0694
+TUBA1B	P68363	Tubulin alpha-1B chain	gray	NA	-0.0345	-0.1389	-0.0867
+CCT2	P78371	T-complex protein 1 subunit beta	gray	NA	-0.0535	-0.1785	-0.116
+PRKDC	P78527	DNA-dependent protein kinase catalytic subunit	gray	NA	-0.0657	-0.1373	-0.1015
+MRPS22	P82650	28S ribosomal protein S22, mitochondrial	gray	NA	-0.0409	-0.1481	-0.0945
+MRPS34	P82930	28S ribosomal protein S34, mitochondrial	gray	NA	0.0445	-0.1203	-0.0379
+RPL24	P83731	60S ribosomal protein L24	gray	NA	0.0522	-0.1708	-0.0593
+ERH	P84090	Enhancer of rudimentary homolog	gray	NA	-0.1235	-0.0164	-0.07
+SRSF3	P84103	Serine/arginine-rich splicing factor 3	gray	NA	0.0348	0.1753	0.1051
+SLC25A3	Q00325	Phosphate carrier protein, mitochondrial	gray	NA	-0.0274	-0.0907	-0.059
