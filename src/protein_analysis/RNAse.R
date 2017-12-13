@@ -9,14 +9,6 @@ source("lib/exp-functions.R")
 source("lib/affinity-obj.R")
 source("lib/utils.R")
 
-source("src/R/aff-collection-obj.R")
-source("src/R/report-functions.R")
-source("src/R/signif-test.R")
-source("src/R/beauty-pair-plots.R")
-source("src/R/heatmap.3.R")
-
-
-
 # colorblind palette
 cbp <- list(grey = "#999999", 
             orange = "#E69F00", 

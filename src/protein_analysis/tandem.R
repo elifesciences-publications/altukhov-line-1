@@ -1,5 +1,6 @@
 # split-tandem analysis
 library(data.table)
+library(seqinr)
 
 options(scipen=999)
 
