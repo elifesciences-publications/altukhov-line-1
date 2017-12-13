@@ -9,3 +9,7 @@ MAP_3_624	MAP_3_624	1	MAP_3_567	Fusion_2	1	F	F			A78	 A82-A83	 A85
 MAP_4_624	MAP_4_624	1	MAP_4_567	Fusion_3	1	F	F			A78	 A82-A83	 A85
 MAP_401_567_Fusion	401_567_Fusion	1	401_567_Fusion	Fusion_1	1	F	F			A77	 A80-A81	 A84
 MAP_401_624_Fusion	401_624_Fusion	1	401_624_Fusion	Fusion_1	1	F	F			A78	 A82-A83	 A85
+mt302_30min	mt302_30min	1	mt302_30min	QE	1	F	F			A65-A68	 A86-A89 (combine)	
+mt302_t0	mt302_t0	1	mt302_t0	QE	1	F	F			A65-A68	 A86-A89 (combine)	
+mt302_t5min	mt302_t5min	1	mt302_t5min	QE	1	F	F			A65-A68	 A86-A89 (combine)	
+mt302_t30sec	mt302_t30sec	1	mt302_t30sec	QE	1	F	F			A65-A68	 A86-A89 (combine)	
