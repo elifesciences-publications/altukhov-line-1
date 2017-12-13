@@ -8,30 +8,11 @@ options(scipen=999)
 source("lib/exp-functions.R")
 source("lib/affinity-obj.R")
 source("lib/utils.R")
-
-# colorblind palette
-cbp <- list(grey = "#999999", 
-            orange = "#E69F00", 
-            lightblue = "#56B4E9", 
-            green = "#009E73", 
-            yellow = "#F0E442", 
-            blue = "#0072B2", 
-            red = "#D55E00", 
-            pink = "#CC79A7")
-
-# contaminants
-cont <- names(read.fasta("data/contaminants.fasta"))
-
-# proteins from the cell article
-cell.pr <- fread("data/tbls/cell_article_37_proteins.txt")
-cell.pr.l <- cell.pr$Gene
-names(cell.pr.l) <- cell.pr$`Uniprot Symbol`
+source("lib/constants.R")
 
 # names of the experiments
 exps <- c("RNAseSILAC_3", "SILACRNAse_4")
 
-# read exp template (from John)
-dt.tmpl <- fread("data/tbls/experimentalDesignTemplate.txt", header = T, sep = "\t")
 # subset needed
 dt.tmpl <- dt.tmpl[Aname %in% exps]
 # get unique - H/L pair
@@ -92,10 +73,6 @@ for (i in 1:length(l.aff)) {
   aff.mtx[as.character(l.aff[[i]]$aff$pg), names(l.aff)[i]] <-
     l.aff[[i]]$aff$aff
 }
-
-# names of ORF1 and ORF2 proteins
-orf1.orf2 <- c(orf1 = "sp|Q9UN81|LORF1_HUMAN", 
-               orf2 = "Orf2-untagged(optimized):")
 
 # matrix with affinity
 mtx <- aff.mtx[, exps]
