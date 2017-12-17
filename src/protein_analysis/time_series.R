@@ -25,7 +25,7 @@ dt.tmpl.e$avalue <- "H/(H+L)"
 dt.tmpl.e$avalue[dt.tmpl.e$heavy == 0] <- "L/(H+L)"
 
 # prepare datasets and experiments list
-l.read <- list(data = "data/quantitation/062416_proteinGroups.txt", exps = dt.tmpl.e$Aname)
+l.read <- list(data = "data/quantitation/proteinGroups.txt", exps = dt.tmpl.e$Aname)
 
 # load all exp in list
 l.exp <- get_list_mqexp(l.read$data, exps.qe)
