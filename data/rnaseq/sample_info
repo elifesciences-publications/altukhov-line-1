@@ -1,0 +1,10 @@
+sample_name	condition
+2_401_Inp_10_11_S1	401_Inp
+2_567_Elu_10_16_S8	567_Elu
+3_401_Sup_10_11_S2	401_Sup
+4_401_Elu_10_11_S3	401_Elu
+4_624_Elu_10_16_S9	624_Elu
+6_401_Inp_10_12_S4	401_Inp
+6_567_Elu_10_10_S7	567_Elu
+7_401_Sup_10_12_S5	401_Sup
+8_401_Elu_10_12_S6	401_Elu
