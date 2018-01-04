@@ -4,3 +4,7 @@
 - src/ -- scripts with analysis
 - lib/ -- functions and constants
 - out/ -- results of analysis
+
+# License
+
+This work is licensed under a GNU GPLv3.
